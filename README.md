@@ -47,7 +47,7 @@ Clicking on a certificate opens the full image in pdf format.
 ---
 
 ## 📄 Resume
-👉 [View Resume]((https://drive.google.com/file/d/1XpO4EEpOKil_S8VT7B2aZynf9cV4kXiN/view?usp=sharing)) 
+👉 [View My Resume](https://drive.google.com/file/d/1XpO4EEpOKil_S8VT7B2aZynf9cV4kXiN/view?usp=sharing) 
 
 ---
 
