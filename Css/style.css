@@ -321,6 +321,4 @@ h2.section-title { font-size: 4rem; text-align: center; margin-bottom: 3rem; col
   header, .card, .btn { box-shadow:none; }
 }
 
-@media (max-width:480px) {
-  body { background: red !important; }
-}
+
