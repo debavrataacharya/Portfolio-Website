@@ -6,7 +6,7 @@ It showcases my **projects, skills, certificates, and resume** in a clean and or
 ---
 
 ## 🚀 Live Website
-👉 [https://your-username.github.io/](http://debavrataacharya.github.io/Portfolio-Website/)
+👉 [https://debavrataacharya.github.io/](http://debavrataacharya.github.io/Portfolio-Website/)
 
 ---
 
@@ -47,7 +47,7 @@ Clicking on a certificate opens the full image in pdf format.
 ---
 
 ## 📄 Resume
-👉 [View Resume]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1XpO4EEpOKil_S8VT7B2aZynf9cV4kXiN/view?usp=sharing)) 
+👉 [View Resume]((https://drive.google.com/file/d/1XpO4EEpOKil_S8VT7B2aZynf9cV4kXiN/view?usp=sharing)) 
 
 ---
 
